@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Zayd El Ouaragli 👋</h1>
-<h3 align="center">AI & Data Scientist — turning messy data into models that ship</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=AI+%26+Data+Scientist;Computer+Vision+Engineer;Building+end-to-end+ML+pipelines" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elouaraglizayd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -15,6 +18,15 @@
 - 🇲🇦 Based in Morocco, active in the local AI/ML community (MoroccoAI hackathon alum)
 - 🌱 Currently exploring agentic AI systems (smolagents, LLM tool-use)
 - ⚡ Fun fact: I like taking projects from "raw scraped data" to "working dashboard"
+
+### 🌍 Languages
+
+| Language | Level |
+|---|---|
+| 🇲🇦 Arabic | Native |
+| 🇬🇧 English | Professional working proficiency |
+| 🇫🇷 French | B2 (TCF certified) |
+| 🇪🇸 Spanish | B1 |
 
 ### 🛠️ Tech Stack
 
