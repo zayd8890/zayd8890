@@ -42,12 +42,16 @@
   <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
 </p>
 
 ### 🚀 Featured Projects
 
 | Project | What it does |
 |---|---|
+| [**Pneumonia-MLops**](https://github.com/zayd8890/Pneumonia-MLops) | Production-grade MLOps pipeline for chest X-ray pneumonia classification (DenseNet/ResNet in PyTorch) — DVC data versioning, Docker/Kubernetes deployment, Nginx, and monitoring |
 | [**Transfers_Rumors**](https://github.com/zayd8890/Transfers_Rumors) | End-to-end pipeline analyzing football transfer rumors vs. real performance — web scraping (YouTube/Transfermarkt/WhoScored), Whisper transcription, NLP + sentiment analysis, XGBoost classification, orchestrated with Airflow + Docker, visualized in Power BI/Streamlit |
 | [**logos-plate-cars-objet-detection**](https://github.com/zayd8890/logos-plate-cars-objet-detection) | Vehicle logo & Moroccan license plate detection using YOLOv8 and OpenCV, served through a Streamlit app |
 | [**PulseGuard**](https://github.com/zayd8890/PulseGuard) | Medical monitoring system combining IoT vital-sign streams with deep learning for blood pressure classification, plus an AI medical assistant chatbot |
